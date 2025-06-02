@@ -1,0 +1,12 @@
+# ---- Python -------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+# ---- Virtual environment -----------------------------------
+.venv/
+# ---- Jupyter kernel / VSCode / JetBrains --------------------
+.ipynb_checkpoints/
+.vscode/
+.idea/
+# ---- Hugging Face cache (kept in home dir by default) -------
+# .cache/
